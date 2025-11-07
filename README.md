@@ -1,20 +1,10 @@
 【德美颜】AI增长架构师 / DeMeiYan AI Growth Architect
-【德美颜】AI 增长架构师/ DeMeiYan AI Growth Architect
-Unsupported image  不支持的图像
- 
-Unsupported image  不支持的图像
- 
-Unsupported image  不支持的图像
- 
-Unsupported image  不支持的图像
-
 一个专为创业者和医美行业打造的AI驱动产品增长助手
-
 An AI-powered growth architecture assistant for entrepreneurs and medical aesthetics professionals
 一款面向企业家和医疗美容专业人士的 AI 驱动型增长架构助手
-
 English | 中文
-English | 中文
+🚀 Live Demo / 在线演示
+   Try it now:[https://streamlit-ai-assistant-xuanxuanchen198.replit.app](https://streamlit-ai-assistant-xuanxuanchen198.replit.app)
 
 中文
 📖 项目简介
